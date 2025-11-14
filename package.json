@@ -2,6 +2,10 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.17",
     "daisyui": "^5.5.3",
+    "prisma": "^6.19.0",
     "tailwindcss": "^4.1.17"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.0"
   }
 }
